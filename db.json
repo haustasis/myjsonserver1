@@ -1,178 +1,20 @@
 {
-  "results": [
+  "posts": [
     {
-      "gender": "male",
-      "name": {
-        "title": "Mr",
-        "first": "Margarido",
-        "last": "Lima"
-      },
-      "location": {
-        "street": {
-          "number": 9789,
-          "name": "Rua Piauí "
-        },
-        "city": "Rio Claro",
-        "state": "Paraná",
-        "country": "Brazil",
-        "postcode": 96604,
-        "coordinates": {
-          "latitude": "-77.9754",
-          "longitude": "-153.5505"
-        },
-        "timezone": {
-          "offset": "-7:00",
-          "description": "Mountain Time (US & Canada)"
-        }
-      },
-      "email": "margarido.lima@example.com",
-      "login": {
-        "uuid": "a82f8b8f-ebed-4592-81aa-f2e2787bc2c6",
-        "username": "redmouse951",
-        "password": "acura",
-        "salt": "6R52wLks",
-        "md5": "544cda7b5c990fda7afc48a68f6bf5cb",
-        "sha1": "98f8e48028627593fbd7bf3d8d1528b1a147f20d",
-        "sha256": "5cff974456a627b5501f29fc44cbe51350b18af5ccbae90b05803e9b0139195d"
-      },
-      "dob": {
-        "date": "1953-05-18T11:36:46.982Z",
-        "age": 67
-      },
-      "registered": {
-        "date": "2017-12-12T12:13:18.473Z",
-        "age": 3
-      },
-      "phone": "(45) 4771-7403",
-      "cell": "(40) 2451-3600",
-      "id": {
-        "name": "",
-        "value": null
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/men/14.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
-      },
-      "nat": "BR"
-    },
-    {
-      "gender": "female",
-      "name": {
-        "title": "Mrs",
-        "first": "Tucha",
-        "last": "Barros"
-      },
-      "location": {
-        "street": {
-          "number": 8660,
-          "name": "Rua Dois"
-        },
-        "city": "Cotia",
-        "state": "Distrito Federal",
-        "country": "Brazil",
-        "postcode": 36010,
-        "coordinates": {
-          "latitude": "-77.3608",
-          "longitude": "-47.9533"
-        },
-        "timezone": {
-          "offset": "+11:00",
-          "description": "Magadan, Solomon Islands, New Caledonia"
-        }
-      },
-      "email": "tucha.barros@example.com",
-      "login": {
-        "uuid": "6046824a-101a-4e17-bd44-44f35258dbb5",
-        "username": "greenleopard617",
-        "password": "pumpkins",
-        "salt": "8oujwGZR",
-        "md5": "5f7426ebc1b3c552e81545975df73d6a",
-        "sha1": "5d1c74406a3a0e30110572ef1a05a7bd0dd2e726",
-        "sha256": "d9ceb372c598567fd7a3226f08f56ade047121c48504b46f3020d9a9de17dac0"
-      },
-      "dob": {
-        "date": "1966-12-17T09:52:38.611Z",
-        "age": 54
-      },
-      "registered": {
-        "date": "2010-12-28T20:23:04.586Z",
-        "age": 10
-      },
-      "phone": "(81) 9154-6596",
-      "cell": "(95) 9621-2686",
-      "id": {
-        "name": "",
-        "value": null
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/42.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
-      },
-      "nat": "BR"
-    },
-    {
-      "gender": "female",
-      "name": {
-        "title": "Mrs",
-        "first": "Gabija",
-        "last": "Follestad"
-      },
-      "location": {
-        "street": {
-          "number": 8168,
-          "name": "Dronning Blancas vei"
-        },
-        "city": "Løkenfeltet",
-        "state": "Troms - Romsa",
-        "country": "Norway",
-        "postcode": "5304",
-        "coordinates": {
-          "latitude": "0.8319",
-          "longitude": "27.1531"
-        },
-        "timezone": {
-          "offset": "-1:00",
-          "description": "Azores, Cape Verde Islands"
-        }
-      },
-      "email": "gabija.follestad@example.com",
-      "login": {
-        "uuid": "686e2e18-799e-4bf9-a932-49dace5356d2",
-        "username": "bigswan509",
-        "password": "block",
-        "salt": "fTMWV531",
-        "md5": "f94ff467277cf84281a53570c881416a",
-        "sha1": "e6d75d7f6b4d723d208939aa6f1604448f760308",
-        "sha256": "fc06dbe0a063aba67554a8040f298ae525a5fe1bc794199916104767f34a31e3"
-      },
-      "dob": {
-        "date": "1978-07-24T19:22:18.169Z",
-        "age": 42
-      },
-      "registered": {
-        "date": "2011-09-04T10:57:43.959Z",
-        "age": 9
-      },
-      "phone": "50133111",
-      "cell": "91468298",
-      "id": {
-        "name": "FN",
-        "value": "24077833451"
-      },
-      "picture": {
-        "large": "https://randomuser.me/api/portraits/women/63.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
-      },
-      "nat": "NO"
+      "id": 1,
+      "title": "tester",
+      "name": "Laurence"
     }
   ],
-  "info": {
-    "seed": "44efbdb13c5b3bc1",
-    "results": 3,
-    "page": 1,
-    "version": "1.3"
+  "comments": [
+    {
+      "id": 1,
+      "body": "Content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
+
